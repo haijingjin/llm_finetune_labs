@@ -10,7 +10,7 @@ The goal is to build two distinct AI advisors:
 
 Both models were fine-tuned with [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685) for **parameter-efficient tuning** using instruction-response pairs reflecting each mindset.
 
----
+
 
 ## How to Run (Kaggle or Colab)
 
@@ -23,7 +23,7 @@ Both models were fine-tuned with [LoRA (Low-Rank Adaptation)](https://arxiv.org/
    ```
 3. Save trained models as `.zip` to reuse across sessions
 
----
+
 
 ## Key Learnings
 
